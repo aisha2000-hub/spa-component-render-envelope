@@ -8,4 +8,4 @@ You can find the most recent version of this guide [here](https://github.com/fac
 **envelope**
 
 * Create an `Envelope` component that takes `toPerson` and `fromPerson` as props and uses your `AddressLabel` from Exercise 1 to display the return address and the recipient address. Make sure to include a `Stamp` too!
-	* ![](https://i.imgur.com/ZfbWp0R.png)
+	* ![]()

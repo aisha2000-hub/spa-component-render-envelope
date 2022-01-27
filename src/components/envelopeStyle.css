@@ -1,0 +1,40 @@
+body{
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+
+
+}
+.Envelope{
+    width:800px;
+    height:300px;
+    display: flex;
+    flex-direction: row;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius:8px;
+    box-shadow: 1px 1px 8px 3px grey;
+    color:rgb(119, 115, 115);
+}
+.Envelope:hover{
+    color:black;
+    box-shadow: 1px 1px 8px 3px rgb(19, 18, 17);
+}
+
+.Container-1{
+    margin-left:1.5rem;
+}
+
+.Container-2{
+    justify-content:center;
+    align-items: center;
+    margin-top:7rem;
+    margin-left:7rem;
+}
+.Stample{
+    width: 100px;
+    height: 100px;
+    margin-left:11rem;
+    margin-top:1rem;
+    
+}
